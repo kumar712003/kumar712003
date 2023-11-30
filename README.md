@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Kumar
 - 👀 I’m interested in Full Stack Python Developer
-- 🌱 I’m currently learning B.Tech (COmputer Science)
+- 🌱 I’m currently learning B.Tech (Computer Science)
 - 💞️ I’m looking to collaborate on Research
 - 📫 How to reach me (kumar712003@gmail.com)
 
